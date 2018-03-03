@@ -36,10 +36,6 @@
         </style>
     </head>
     <body>
-        <div class="container">
-            <div class="content">
-                <div class="title">Laravel 5</div>
-            </div>
-        </div>
+     <h1>HEllo frome Blade1</h1>
     </body>
 </html>
